@@ -9,6 +9,9 @@ The dashboard explores employment patterns, unemployment trends, industry perfor
 The goal of this project is to transform labor market data into meaningful and easy-to-understand insights that can support workforce planning, economic analysis, and business decision-making.
 
 ---
+<img width="515" height="291" alt="Screenshot 2026-10-25 225421" src="https://github.com/user-attachments/assets/7b8fd481-3ab9-47df-830c-72728f472b89" />
+
+<img width="510" height="289" alt="image" src="https://github.com/user-attachments/assets/17807f51-45a7-4047-b685-c8cd1d715592" />
 
 ## Dashboard Objectives
 
@@ -52,6 +55,7 @@ The dashboard provides a visual ranking of industries with the highest projected
 
 ---
 
+
 ## Key Insights
 
 The dashboard helps reveal several important labor market patterns:
@@ -64,6 +68,7 @@ The dashboard helps reveal several important labor market patterns:
 * Combining historical employment data with future projections provides a more complete view of the Texas labor market.
 
 ---
+
 
 ## Tools & Technologies
 
